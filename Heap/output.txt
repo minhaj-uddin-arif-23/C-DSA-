@@ -1,0 +1,5 @@
+ insertion of max heap
+15 13 9 4 6 
+            
+Delettion of max heap 
+13 6 9 4 
